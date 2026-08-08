@@ -28,34 +28,21 @@ Show Image	Show Image	Show Image	Show Image
 Show Image	Show Image	Show Image	Show Image
 </div> <br>
 🚀 Systems I've Shipped
-<table> <tr> <td width="33%" valign="top">
-📅 Classroom Scheduler
+📅 Project 1 — Classroom Scheduler System
 
-Google Solution Challenge 2026
+Stack: Conflict Detection · Database-Driven Scheduling · Google Solution Challenge 2026 Built an automated timetabling engine that generates optimized class schedules and manages classroom allocation, with a conflict-detection algorithm that catches overlaps before they happen.
 
-Automated timetabling engine with conflict-detection — kills scheduling overlaps before they happen.
+<br>
+🎨 Project 2 — AI Poster Generator
 
-Show Image Show Image
+Stack: Python · Streamlit · Generative Templates Built a prompt-to-poster application with customizable templates, dynamic text generation, and downloadable output — designed for simplicity and lightweight deployment.
 
-</td> <td width="33%" valign="top">
-🎨 AI Poster Generator
+<br>
+📚 Project 3 — Book Store Management System
 
-Python + Streamlit
+Stack: MongoDB · Express.js · React.js · Node.js Built a full-stack MERN application with complete CRUD operations and secure RESTful APIs for managing book records — title, author, price, and category.
 
-Prompt-to-poster app with customizable templates & one-click download.
-
-Show Image Show Image
-
-</td> <td width="33%" valign="top">
-📚 Book Store MERN App
-
-Full-Stack CRUD
-
-Complete book inventory system with secure RESTful APIs.
-
-Show Image Show Image
-
-</td> </tr> </table> <br>
+<br>
 🏆 Battle Log — Hackathons & Internships
 diff
 + Google Solution Challenge 2026 — Built & presented Classroom Scheduler
@@ -65,14 +52,18 @@ diff
 💻 Where I Grind DSA
 <p align="center"> <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a> </p> <p align="center"><b>300+</b> problems solved across LeetCode, HackerRank & CodeChef — and counting ⏱️</p> <br>
 📜 Certifications
-<div align="center">
-🏅	Certification
-✅	Salesforce Agentforce Specialist
-✅	Oracle Cloud Infrastructure — Foundation Associate
-✅	Oracle Cloud AI Foundation Associate
-✅	Cisco Python Essentials 1 & 2
-✅	Programming in Java — NPTEL Elite
-</div> <br>
+
+✅ Certification 1 — Salesforce Agentforce Specialist
+
+✅ Certification 2 — Oracle Cloud Infrastructure, Foundation Associate
+
+✅ Certification 3 — Oracle Cloud AI Foundation Associate
+
+✅ Certification 4 — Cisco Python Essentials 1 & 2, Cisco Networking Academy
+
+✅ Certification 5 — Programming in Java, NPTEL Elite
+
+<br>
 🎯 2026 Objectives
  🚀 Land a Software Engineer role
  🧠 Cross 500+ DSA problems solved
