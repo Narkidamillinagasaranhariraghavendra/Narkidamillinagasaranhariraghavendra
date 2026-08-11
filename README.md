@@ -6,16 +6,16 @@
 <a href="https://github.com/Narkidamillinagasaranhariraghavendra">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/hari-raghavendra-narkidamilli-2873542b9/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://leetcode.com/u/23A31A43B6/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="#">
+<a href="https://www.hackerrank.com/profile/23a31a43b6">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.codechef.com/users/hari234">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 </p>
@@ -227,9 +227,12 @@ Developed **Classroom Scheduler**, a technology solution focused on improving ed
 ![Hashing](https://img.shields.io/badge/-Hashing-9B59B6?style=flat-square) ![Sorting](https://img.shields.io/badge/-Sorting-9B59B6?style=flat-square)
 
 **💻 Coding Platforms**
-- LeetCode
-- HackerRank
-- CodeChef
+
+<p>
+<a href="https://leetcode.com/u/23A31A43B6/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/23a31a43b6"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/hari234"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+</p>
 
 ---
 
