@@ -52,50 +52,58 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c"/>
-</p>
-
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48"/><br><sub><b>C</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><sub><b>SQL</b></sub></td>
+</tr>
+</table>
 
 ### 🌐 Web Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express"/>
-</p>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub><b>HTML</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><sub><b>CSS</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><sub><b>React.js</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><sub><b>Express.js</b></sub></td>
+</tr>
+</table>
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><sub><b>SQL</b></sub></td>
+</tr>
+</table>
 
 ### 📚 Core Subjects
 
-![ML](https://img.shields.io/badge/-Machine%20Learning-9B59B6?style=flat-square)
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-F5A623?style=flat-square)
-![OS](https://img.shields.io/badge/-Operating%20Systems-00C2FF?style=flat-square)
-![DBMS](https://img.shields.io/badge/-Database%20Management%20Systems-35D0BA?style=flat-square)
+<table>
+<tr>
+<td align="center" width="140"><sub><b>🧠 Machine Learning</b></sub></td>
+<td align="center" width="140"><sub><b>🧩 Data Structures & Algorithms</b></sub></td>
+<td align="center" width="140"><sub><b>⚙️ Operating Systems</b></sub></td>
+<td align="center" width="140"><sub><b>🗄️ Database Management Systems</b></sub></td>
+</tr>
+</table>
 
 ### 🧰 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><sub><b>Vercel</b></sub></td>
+</tr>
+</table>
 
 ---
 
@@ -116,18 +124,23 @@ An automated classroom scheduling system designed to generate optimized timetabl
 
 <br>
 
-### 🎨 AI Poster Generator
+### 🌿 EcoGlow
 
-**Technology:** Python | Streamlit
+**Technology:** Sustainability Research | Concept Design
 
-An AI-powered poster generation application for automated content creation.
+An eco-friendly skincare concept exploring how everyday fruit peels — usually thrown away as waste — can be reused as natural ingredients for face and skin care.
+
+**🍌 How Fruit Peels Help the Body**
+- 🍌 **Banana peel** — rich in antioxidants and potassium; used to reduce under-eye puffiness, soothe irritated skin, and add a natural glow when rubbed gently on the face
+- 🍊 **Orange peel** — packed with Vitamin C; helps brighten skin tone, control excess oil, and fight acne-causing bacteria
+- 🍎 **Pomegranate peel** — high in antioxidants and tannins; supports skin repair, fights signs of aging, and tightens pores
 
 **✨ Key Features**
-- 🎨 Customizable templates
-- ✨ Dynamic text generation
-- 📥 Downloadable poster generation
-- 🖥️ Interactive user interface
-- 🚀 Lightweight deployment
+- 🌿 Turns organic kitchen waste into a usable skincare resource
+- 🧴 Highlights natural, chemical-free alternatives to store-bought products
+- 🔬 Explains the beneficial compounds behind each fruit peel
+- ♻️ Promotes sustainability by reducing food waste
+- 💡 Raises awareness of plant-based, low-cost personal care
 
 <br>
 
